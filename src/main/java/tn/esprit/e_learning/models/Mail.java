@@ -19,7 +19,7 @@ public class Mail {
         Session session = Session.getInstance(props, new javax.mail.Authenticator() {
             @Override
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication("anouar.jebri@gmail.com", "ihux xeib vlrp viws");
+                return new PasswordAuthentication("", "");
             }
         });
 
