@@ -1,0 +1,2 @@
+# Gitpartage
+ sharedProject
